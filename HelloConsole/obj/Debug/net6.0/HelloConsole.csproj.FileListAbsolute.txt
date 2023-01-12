@@ -1,0 +1,15 @@
+E:\Обучение\GB\Знакомство с языком программирования C#\HelloConsole\bin\Debug\net6.0\HelloConsole.exe
+E:\Обучение\GB\Знакомство с языком программирования C#\HelloConsole\bin\Debug\net6.0\HelloConsole.deps.json
+E:\Обучение\GB\Знакомство с языком программирования C#\HelloConsole\bin\Debug\net6.0\HelloConsole.runtimeconfig.json
+E:\Обучение\GB\Знакомство с языком программирования C#\HelloConsole\bin\Debug\net6.0\HelloConsole.dll
+E:\Обучение\GB\Знакомство с языком программирования C#\HelloConsole\bin\Debug\net6.0\HelloConsole.pdb
+E:\Обучение\GB\Знакомство с языком программирования C#\HelloConsole\obj\Debug\net6.0\HelloConsole.csproj.AssemblyReference.cache
+E:\Обучение\GB\Знакомство с языком программирования C#\HelloConsole\obj\Debug\net6.0\HelloConsole.GeneratedMSBuildEditorConfig.editorconfig
+E:\Обучение\GB\Знакомство с языком программирования C#\HelloConsole\obj\Debug\net6.0\HelloConsole.AssemblyInfoInputs.cache
+E:\Обучение\GB\Знакомство с языком программирования C#\HelloConsole\obj\Debug\net6.0\HelloConsole.AssemblyInfo.cs
+E:\Обучение\GB\Знакомство с языком программирования C#\HelloConsole\obj\Debug\net6.0\HelloConsole.csproj.CoreCompileInputs.cache
+E:\Обучение\GB\Знакомство с языком программирования C#\HelloConsole\obj\Debug\net6.0\HelloConsole.dll
+E:\Обучение\GB\Знакомство с языком программирования C#\HelloConsole\obj\Debug\net6.0\refint\HelloConsole.dll
+E:\Обучение\GB\Знакомство с языком программирования C#\HelloConsole\obj\Debug\net6.0\HelloConsole.pdb
+E:\Обучение\GB\Знакомство с языком программирования C#\HelloConsole\obj\Debug\net6.0\HelloConsole.genruntimeconfig.cache
+E:\Обучение\GB\Знакомство с языком программирования C#\HelloConsole\obj\Debug\net6.0\ref\HelloConsole.dll
