@@ -1,26 +1,26 @@
 ﻿Console.WriteLine("Hello, World!");
 
-int xa = 20, ya = 1,
-    xb = 1, yb = 15,
-    xc = 40, yc = 15;
+int xa = 40, ya = 1,
+    xb = 1, yb = 30,
+    xc = 80, yc = 30;
 
-string plus = "+";
+string symbol = "*";
 
 Console.SetCursorPosition(xa, ya);
-Console.WriteLine(plus);
+Console.WriteLine(symbol);
 
 Console.SetCursorPosition(xb, yb);
-Console.WriteLine(plus);
+Console.WriteLine(symbol);
 
 Console.SetCursorPosition(xc, yc);
-Console.WriteLine(plus);
+Console.WriteLine(symbol);
 
 
-int x = xa, y = xb;
+int x = xa, y = yb;
 
 int count = 0;
 
-while (count < 100000)
+while (count < 1000000)
 {
     int what = new Random().Next(0, 3);
 
@@ -43,6 +43,6 @@ while (count < 100000)
     }
 
     Console.SetCursorPosition(x, y);
-    Console.WriteLine(plus);
+    Console.WriteLine(symbol);
     count++;
 }
